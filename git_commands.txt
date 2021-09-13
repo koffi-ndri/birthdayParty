@@ -1,0 +1,36 @@
+Task 1:
+git branch
+
+Task 2:
+git branch -D moma
+git branch -D whitney
+
+Task 3:
+git branch unordered-list
+git checkout unordered-list
+
+Task 5:
+git add index.html
+
+Task 6:
+git commit -m "Paragraph replaced by unordered list"
+
+Task 7:
+git checkout master
+git merge unordered-list
+
+Task 8:
+git branch big-heading
+
+Task 9:
+git checkout big-heading
+
+Task 10:
+git add index.html
+
+Task 11:
+git commit -m "Big heading"
+
+Task 12:
+git checkout master
+git merge big-heading
